@@ -1,0 +1,22 @@
+12:46:31.777 ERROR connect ECONNREFUSED 127.0.0.1:270
+{"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":270}
+Error: connect ECONNREFUSED 127.0.0.1:270
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1088:14) 
+12:13:33.947 INFO  hjhkjhkhkjhjk 
+12:50:43.488 INFO  Database is connected at port 27017 
+13:42:06.871 INFO  Database is connected at port 27017 
+13:42:23.064 INFO  Database is connected at port 27017 
+13:42:32.390 INFO  Database is connected at port 27017 
+13:42:39.456 INFO  Database is connected at port 27017 
+14:56:04.440 ERROR connect ECONNREFUSED 127.0.0.1:27018
+{"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":27018}
+Error: connect ECONNREFUSED 127.0.0.1:27018
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1088:14) 
+10:55:26.129 ERROR connect ECONNREFUSED 127.0.0.1:27018
+{"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":27018}
+Error: connect ECONNREFUSED 127.0.0.1:27018
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1088:14) 
+14:42:45.106 ERROR connect ECONNREFUSED 127.0.0.1:27018
+{"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":27018}
+Error: connect ECONNREFUSED 127.0.0.1:27018
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1088:14) 
